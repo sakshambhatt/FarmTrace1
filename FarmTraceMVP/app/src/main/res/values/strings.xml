@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">FarmTraceMVP</string>
+    <string name="i_m_a_consumer">I\'m a consumer</string>
+    <string name="login">Login</string>
+    <string name="farmtrace_logo">farmtrace_logo</string>
+    <string name="register">Register</string>
+    <string name="toast_message">Credit: Icon made by Freepik from www.flaticon.com</string>
+    <string name="username">username</string>
+    <string name="getKey_failure">GetKey Failed!</string>
+    <string name="save_user_data">Save user data</string>
+    <string name="get_crypto_keys">Get crypto keys</string>
+    <string name="go_2_login">Go 2 Login</string>
+    <string name="verify_register">Verify Registration</string>
+    <string-array name="roles">
+        <item>Farmer</item>
+        <item>Shipper</item>
+        <item>Retailer</item>
+    </string-array>
+
+    <string-array name="certs">
+        <item>American Grassfed</item>
+        <item>American Humane Certified</item>
+        <item>Animal Welfare Approved </item>
+        <item>Certified Humane Raised and Handled </item>
+        <item>Non-GMO Project Verified </item>
+        <item>United Egg Producers Certified</item>
+        <item>USDA Organic</item>
+    </string-array>
+
+    <string name="product_name">Product name</string>
+    <string name="quantity_in_lbs">Quantity in lbs</string>
+    <string name="sent_to_which_shipper">Sent to which Shipper</string>
+    <string name="save_data">Save Data</string>
+    <string name="add_2_pchain">Add 2 Pchain</string>
+    <string name="farmer_login">Farmer</string>
+    <string name="shipper_login">Shipper</string>
+    <string name="retailer_login">Retailer</string>
+    <string name="enter_uid">Enter uid</string>
+    <string name="sent_to_which_retailer">Sent to which retailer</string>
+    <string name="which_shipper_sent_it">Received from which shipper</string>
+    <string name="mine_tx">Mine TX</string>
+    <string name="display_product_journey">Display product journey</string>
+    <string name="get_data">Get Data</string>
+</resources>
